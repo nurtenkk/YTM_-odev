@@ -1,4 +1,4 @@
-package lab;
+package org.lab;
 
 public record Parcel(String label, int grams) {
     public Parcel {
